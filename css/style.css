@@ -205,6 +205,7 @@ body{
      background: rgb(48, 47, 47);
      color: white;
      padding: 10px 20px;
+     height: 3rem;
  }
  /* utility class */
  .h-primary{
